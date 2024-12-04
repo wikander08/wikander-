@@ -2,7 +2,7 @@
 /*
    sample start file for final project - educational use only
    
-   Author:   
+   Author:   wikander
    Date:     
    
   
@@ -71,7 +71,7 @@ nav ul li a:hover {
     color: black;
     border-left: 2px solid;
     border-right: 2px solid;    
-    background-image: url(images/ricepaper.jpg); 
+    background-image: url(images/menu1.png); 
 }
 
 #main p {
